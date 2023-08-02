@@ -1,0 +1,98 @@
+
+.banner{
+    background: url("/img/baner.jpg") no-repeat center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color:white ;
+    margin: 0px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.lingkaran{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: white;
+    background-color: #dc3545;
+
+}
+a.kontak-nav{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: white;
+    border-radius: 50%;
+    background-color: black;
+    line-height: 40px;
+    margin:5px;
+    margin-top: 1px;
+}
+
+a.kontak-layanan{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: white;
+    border-radius: 50%;
+    background-color: black;
+    line-height: 40px;
+}
+    
+
+ a.kontak{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    color: black;
+    border-radius: 50%;
+    background-color: white;
+    line-height: 40px;
+    margin: 5px;
+
+ }
+
+ a.kontak-m{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    color: black;
+    border-radius: 50%;
+    background-color: white;
+    line-height: 40px;
+    margin: 5px;
+
+ }
+ .kontak i{
+    position: relative;
+    left: 11px;
+    top: 9px;
+ }
+
+ .kontak-m i{
+    position: relative;
+    left: 9px;
+    top: 9px;
+ }
+ .kontak-nav i{
+    position: relative;
+    left: 5px;
+    top: 4px;
+ }
+
+
+ 
+ 
+.lingkaran i{
+    position: relative;
+    top: 30px;
+}
+
+.crop-img{
+    object-fit: cover;
+}
